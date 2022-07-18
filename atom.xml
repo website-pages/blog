@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://imwzx.netlify.app</id>
+    <title>wzx</title>
+    <updated>2022-07-18T07:17:16.059Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://imwzx.netlify.app"/>
+    <link rel="self" href="https://imwzx.netlify.app/atom.xml"/>
+    <subtitle>wzx个人网站&amp;博客</subtitle>
+    <logo>https://imwzx.netlify.app/images/avatar.png</logo>
+    <icon>https://imwzx.netlify.app/favicon.ico</icon>
+    <rights>All rights reserved 2022, wzx</rights>
+    <entry>
+        <title type="html"><![CDATA[初柒科技 || “扬帆起航”LOGO设计活动]]></title>
+        <id>https://imwzx.netlify.app/post/chu-qi-ke-ji-or-yang-fan-qi-hang-logo-she-ji-huo-dong/</id>
+        <link href="https://imwzx.netlify.app/post/chu-qi-ke-ji-or-yang-fan-qi-hang-logo-she-ji-huo-dong/">
+        </link>
+        <updated>2022-07-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>为了庆祝武汉初柒网络科技有限公司开业，推出本期“扬帆起航”LOGO设计活动，帮助各位博主免费设计LOGO，提高知名度。logo即标志，它是活动的标志和象征，它体现着活动中的精神与文化。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>为了庆祝武汉初柒网络科技有限公司开业，推出本期“扬帆起航”LOGO设计活动，帮助各位博主免费设计LOGO，提高知名度。logo即标志，它是活动的标志和象征，它体现着活动中的精神与文化。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wzx个人主页上线啦！]]></title>
+        <id>https://imwzx.netlify.app/post/wzx-ge-ren-zhu-ye-shang-xian-la/</id>
+        <link href="https://imwzx.netlify.app/post/wzx-ge-ren-zhu-ye-shang-xian-la/">
+        </link>
+        <updated>2022-07-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>重要通知，请认真阅读！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>重要通知，请认真阅读！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java代码实现网页强制https]]></title>
+        <id>https://imwzx.netlify.app/post/java-dai-ma-shi-xian-wang-ye-qiang-zhi-https/</id>
+        <link href="https://imwzx.netlify.app/post/java-dai-ma-shi-xian-wang-ye-qiang-zhi-https/">
+        </link>
+        <updated>2022-07-14T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>当今时代，大多数网站都支持https。很多平台也可以“一键开启强制https”选项。但是，显然，Github Pages绑定自定义域名后并不支持“一键开启强制https”。因此，我在这里给出一个 <em>可能可行</em> 的解决方案。如果这篇文章对你有帮助，还请打赏支持一下🙏！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>当今时代，大多数网站都支持https。很多平台也可以“一键开启强制https”选项。但是，显然，Github Pages绑定自定义域名后并不支持“一键开启强制https”。因此，我在这里给出一个 <em>可能可行</em> 的解决方案。如果这篇文章对你有帮助，还请打赏支持一下🙏！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea NexT添加仿Butterfly加载动画]]></title>
+        <id>https://imwzx.netlify.app/post/gridea-next-tian-jia-fang-butterfly-jia-zai-dong-hua/</id>
+        <link href="https://imwzx.netlify.app/post/gridea-next-tian-jia-fang-butterfly-jia-zai-dong-hua/">
+        </link>
+        <updated>2022-07-14T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Hexo的Butterfly主题有一个很好看的加载动画，现在我把它添加到Gridea NexT主题（博主已实现），并写一个教程。如果这篇文章对你有帮助，还请打赏支持一下🙏！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Hexo的Butterfly主题有一个很好看的加载动画，现在我把它添加到Gridea NexT主题（博主已实现），并写一个教程。如果这篇文章对你有帮助，还请打赏支持一下🙏！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[404网页JQuery源码分享]]></title>
+        <id>https://imwzx.netlify.app/post/404-page-code-share/</id>
+        <link href="https://imwzx.netlify.app/post/404-page-code-share/">
+        </link>
+        <updated>2022-07-13T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天给大家分享一个404网页的源码。<br>
+源码最初来源于网络，博主进行了一些改动。现在分享给大家。<br>
+如果感觉不错的话还请打赏支持一下🙏！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天给大家分享一个404网页的源码。<br>
+源码最初来源于网络，博主进行了一些改动。现在分享给大家。<br>
+如果感觉不错的话还请打赏支持一下🙏！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应用程序下载]]></title>
+        <id>https://imwzx.netlify.app/post/ying-yong-cheng-xu-xia-zai/</id>
+        <link href="https://imwzx.netlify.app/post/ying-yong-cheng-xu-xia-zai/">
+        </link>
+        <updated>2022-07-13T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>你可以下载本网站的应用程序，并通过应用程序直接访问本网站，而无需使用浏览器。<br>
+<em>应用程序v2.0全新上线啦！</em><br>
+<em>新增功能：相关快捷键、支持全屏显示、托盘区显示图标等。</em><br>
+<em>本次为重大更新，其他版本的应用将不再支持，请尽快下载最新版应用。</em></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>你可以下载本网站的应用程序，并通过应用程序直接访问本网站，而无需使用浏览器。<br>
+<em>应用程序v2.0全新上线啦！</em><br>
+<em>新增功能：相关快捷键、支持全屏显示、托盘区显示图标等。</em><br>
+<em>本次为重大更新，其他版本的应用将不再支持，请尽快下载最新版应用。</em></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏花——冰河有日解冻，雏鹰终将翱翔。]]></title>
+        <id>https://imwzx.netlify.app/post/xia-hua-bing-he-you-ri-jie-dong-chu-ying-zhong-jiang-ao-xiang/</id>
+        <link href="https://imwzx.netlify.app/post/xia-hua-bing-he-you-ri-jie-dong-chu-ying-zhong-jiang-ao-xiang/">
+        </link>
+        <updated>2022-07-07T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近看到一首歌，感触很大，这里分享给大家！<s>顺便水一篇文章。</s></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>最近看到一首歌，感触很大，这里分享给大家！<s>顺便水一篇文章。</s></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[镜像网站已完成部署]]></title>
+        <id>https://imwzx.netlify.app/post/jing-xiang-wang-zhan-yi-wan-cheng-bu-shu/</id>
+        <link href="https://imwzx.netlify.app/post/jing-xiang-wang-zhan-yi-wan-cheng-bu-shu/">
+        </link>
+        <updated>2022-06-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>截止至今日（6月30日）23时，本网站的镜像网站已完成部署！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>截止至今日（6月30日）23时，本网站的镜像网站已完成部署！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea NexT主题优化（下）]]></title>
+        <id>https://imwzx.netlify.app/post/gridea-next-you-hua-xia/</id>
+        <link href="https://imwzx.netlify.app/post/gridea-next-you-hua-xia/">
+        </link>
+        <updated>2022-06-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>《NexT》是Hexo的一个主题，深受广大用户喜爱。非常感谢@hsxyhao大佬将NexT主题成功移植到了Gridea平台，给大家带来诸多便利。网上有许多有关hexo-theme-next的美化和自定义配置的文章，遗憾的是，由于文件架构不同，那些配置并不完全适用于Gridea NexT主题。鉴于此，我写了一些对于Gridea NexT主题优化的文章。<strong>如果这篇文章对你有帮助，还请打赏支持一下！拜托了🙏！</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>《NexT》是Hexo的一个主题，深受广大用户喜爱。非常感谢@hsxyhao大佬将NexT主题成功移植到了Gridea平台，给大家带来诸多便利。网上有许多有关hexo-theme-next的美化和自定义配置的文章，遗憾的是，由于文件架构不同，那些配置并不完全适用于Gridea NexT主题。鉴于此，我写了一些对于Gridea NexT主题优化的文章。<strong>如果这篇文章对你有帮助，还请打赏支持一下！拜托了🙏！</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea NexT主题优化（中）]]></title>
+        <id>https://imwzx.netlify.app/post/gridea-next-you-hua-zhong/</id>
+        <link href="https://imwzx.netlify.app/post/gridea-next-you-hua-zhong/">
+        </link>
+        <updated>2022-06-25T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>《NexT》是Hexo的一个主题，深受广大用户喜爱。非常感谢@hsxyhao大佬将NexT主题成功移植到了Gridea平台，给大家带来诸多便利。网上有许多有关hexo-theme-next的美化和自定义配置的文章，遗憾的是，由于文件架构不同，那些配置并不完全适用于Gridea NexT主题。鉴于此，我写了一些对于Gridea NexT主题优化的文章。<strong>如果这篇文章对你有帮助，还请打赏支持一下！拜托了🙏！</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>《NexT》是Hexo的一个主题，深受广大用户喜爱。非常感谢@hsxyhao大佬将NexT主题成功移植到了Gridea平台，给大家带来诸多便利。网上有许多有关hexo-theme-next的美化和自定义配置的文章，遗憾的是，由于文件架构不同，那些配置并不完全适用于Gridea NexT主题。鉴于此，我写了一些对于Gridea NexT主题优化的文章。<strong>如果这篇文章对你有帮助，还请打赏支持一下！拜托了🙏！</strong></p>
+]]></content>
+    </entry>
+</feed>

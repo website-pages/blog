@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/link"
+  to = "https://imwzx-nav.netlify.app/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/game"
+  to = "https://imwzx-game.netlify.app/"
+  status = 301
+  force = true
